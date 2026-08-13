@@ -1,5 +1,9 @@
 # model_serving_day1
 
+작성일: 2026년 8월 12일
+
+---
+
 # 5-7 수행 내역 캡쳐
 
 ![image.png](model_serving_day1/image.png)
