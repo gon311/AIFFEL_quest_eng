@@ -41,14 +41,14 @@ Q5. 이 서비스를 실제로 배포하려면 추가로 무엇이 필요합니�
 아래 구현 화면 캡처에서도 확인할 수 있듯이 프로젝트의 핵심 요구사항을 모두 달성했습니다.
 
 1. 서버 정상 실행 & Streamlit UI로 텍스트 입력 및  출력 확인 
-<img src=”./img/1.png”>
-<img src=”./img/2.png”>
+<img src=”img/1.png”>
+<img src=”img/2.png”>
 2. Swagger UI 추론 동작
-<img src=”./img/3.png”>
+<img src=”img/3.png”>
 3. API Key 없이 요청할 경우:  401 반환 
-<img src=”./img/5.png”>
-<img src=”./img/5-1.png”>
+<img src=”img/5.png”>
+<img src=”img/5-1.png”>
 4. 잘못된 입력에 대힌 적정한 에러 메세지 반환
-<img src=”./img/4.png”>
+<img src=”img/4.png”>
 
 이번에는 시간제한으로 인해 텍스트 처리 모델을 사용했지만, 다음번에는 시간을 조금 더 들여서 처음 시도하였던 ViTPose-Plus-Base 모델을 가지고 꼭 작업을 수행해 보고 싶습니다. 오늘 진행한 프로젝트와는 완전히 다른 성격의 작업이므로, 이미지를 직접 처리하고 키포인트를 감지하는 매우 흥미로운 경험이 될 것 같습니다.
