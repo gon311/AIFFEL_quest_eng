@@ -4,7 +4,7 @@
 
 ## 도커 컨테이너와 API 실습
 
-<img src=”img/1.png”>
+<img src="img/1.png">
 
 ---
 
