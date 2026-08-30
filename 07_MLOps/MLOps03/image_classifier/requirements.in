@@ -1,0 +1,16 @@
+torch>=2.0
+pytorch-lightning>=2.0
+transformers>=4.30
+datasets
+torchmetrics
+wandb
+scikit-learn
+pandas
+matplotlib
+torchvision
+albumentations
+opencv-python
+fastapi
+uvicorn
+python-multipart
+pytest
